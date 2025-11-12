@@ -1,6 +1,6 @@
 baseURL = "https://www.heyphilipp.com/"
 languageCode = "en-us"
-title = "Philipp's Site"
+title = "Philipp Pitchford"
 theme = "shibui"
 
 [caches]
