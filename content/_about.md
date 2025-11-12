@@ -4,7 +4,7 @@ date: 2025-11-12
 draft: false
 ---
 
-**Philipp Pitchford**
+![Descriptive alt text](/assets/IMG_3119.jpg)**Philipp Pitchford**
 Self-employed creator
 
 
