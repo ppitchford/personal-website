@@ -4,11 +4,9 @@ date: 2025-11-12
 draft: false
 ---
 
-![Descriptive alt text](/assets/IMG_3119.jpg)**Philipp Pitchford**
-Self-employed creator
+**Philipp Pitchford**
 
-
-My name is Philipp. I'm a self-employed creator from California.
+My name is Philipp and I'm a self-employed creator from California.
 
 I'm interested in how emergent technologies shape how we perceive and interact with ourselves and our communities.
 More broadly I'm interested in art, design, health, language, systems, and the natural world.
