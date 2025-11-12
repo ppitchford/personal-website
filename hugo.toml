@@ -2,3 +2,7 @@ baseURL = "https://www.heyphilipp.com/"
 languageCode = "en-us"
 title = "Philipp's Site"
 theme = "shibui"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
